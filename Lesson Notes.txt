@@ -1,0 +1,19 @@
+Initialize Git
+- git init
+
+Curren status of the folder
+- git status
+
+Add changes to stage
+- git add .
+
+commint changes to repo
+- git commit
+
+Display log of commits
+- git log
+
+Restore or Undo
+- git checkout <filename>
+- git reset HEAD <filename>
+- git checkout <commit number>
